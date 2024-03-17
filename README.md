@@ -1,19 +1,19 @@
-# CROWN-MD
+# HUNTER-AI
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=LONG LIVE+👑CROWN-MD👑;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SIRM;PUBLIC+RELESED; ...;TEAM CROWN-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HAIL TO+👑HUNTER-AI;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+HUNTER;PUBLIC+RELESED; ...;TEAM HUNTER-AI." alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
 <img src="https://i.imgur.com/oE6btwC.jpeg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=CROWN-BOT+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=HUNTER-AI+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Hunter🏹-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+CROWN+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+ya+Crown+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/254114660061ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+Hunter+Ai+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/254114660061ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+ya+Hunter+Ai+Mkuu+🥲'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/kimsirm/CROWN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/fork/kimsirm/COWN-MD?color=yellow&style=flat-square"></a>
@@ -24,7 +24,7 @@
 </p>
 
 
-***Made on Earth by 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 🦄***
+***Made on Earth by Hunter🏹***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
