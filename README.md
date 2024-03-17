@@ -40,7 +40,7 @@ Linking/Pairing:
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@dicksonnicky50@gmail.com/HUNTER-AI-Pairing-v6"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@dicksonnicky50/HUNTER-AI-Pairing-v6"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
