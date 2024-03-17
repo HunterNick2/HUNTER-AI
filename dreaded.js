@@ -48,7 +48,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'CROWN AI';
+const botname = process.env.BOTNAME || 'HUNTER AI';
 const antibot = process.env.ANTIBOT || 'FALSE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -80,9 +80,9 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏';
-    const packname = process.env.STICKER_PACKNAME || 'crown';
-const dev = process.env.DEV || '923195832822'
+    const author = process.env.STICKER_AUTHOR ||'Hunter';
+    const packname = process.env.STICKER_PACKNAME || 'Hunter';
+const dev = process.env.DEV || '254114660061'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -101,7 +101,7 @@ const menu = process.env.MENU_TYPE || 'VIDEO';
 const admin = process.env.ADMIN_MSG || '𝐅𝐚𝐢𝐥𝐮𝐫𝐞!, 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐭𝐨𝐨 𝐲𝐨𝐮𝐧𝐠 𝐭𝐨 𝐝𝐨 𝐭𝐡𝐚𝐭🦄';
     const group = process.env.GROUP_ONLY_MSG || 'Is this a group chat?';
     const botAdmin = process.env.BOT_ADMIN_MSG || '𝐅**𝐤 𝐲𝐨𝐮 🦄𝐚𝐦 𝐚𝐧 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧'
-    const NotOwner = process.env.NOT_OWNER_MSG || 'Lol you are not 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏';
+    const NotOwner = process.env.NOT_OWNER_MSG || 'Lol you are not Hunter';
 const wapresence = process.env.WA_PRESENCE || 'recording';
 const antilink = process.env.ANTILINK || 'TRUE';
 const antilinkall = process.env.ANTILINK_ALL || 'FALSE';
@@ -339,9 +339,9 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 *_𝐂𝐑𝐎𝐖𝐍 𝐁𝐎𝐓_* 〙═⊷❍
+let cap = `╭════〘 *_HUNTER AI_* 〙═⊷❍
 ┃✯╭──────────────
-┃✯│ *_𝐎𝐰𝐧𝐞𝐫 : 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏_*
+┃✯│ *_𝐎𝐰𝐧𝐞𝐫 : Hunter🏹_*
 ┃✯│ *_𝐔𝐬𝐞𝐫 : ${m.pushName}_*
 ┃✯│ *_𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : 𝐋𝐢𝐧𝐮𝐱_*
 ┃✯│ *_𝐒𝐩𝐞𝐞𝐝 : ${dreadedspeed.toFixed(4)} 𝐦𝐬_*
@@ -352,7 +352,7 @@ let cap = `╭════〘 *_𝐂𝐑𝐎𝐖𝐍 𝐁𝐎𝐓_* 〙═⊷❍
 ┃✯│
 ┃✯│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃✯│▎▍▌▌▉▏▎▌▉▐▏▌
-┃✯│  𝐓𝐡𝐞𝐞 𝐂𝐫𝐨𝐰𝐧 
+┃✯│  𝐓𝐡𝐞𝐞 HUNTER 
 ┃✯│
 ┃╰─────
 ╰─────────────────❍
@@ -385,7 +385,7 @@ let cap = `╭════〘 *_𝐂𝐑𝐎𝐖𝐍 𝐁𝐎𝐓_* 〙═⊷❍
 ▯╭─────────────···▸
 ┴✯│
 ┃✯│ *_𝐀𝐢-𝐢𝐦𝐠_*
-┃✯│ *_𝐂𝐫𝐨𝐰𝐧_*
+┃✯│ *_Ai-Hunter_*
 ┃✯│ *_𝐆_*
 ┃✯│ *_𝐆𝐩𝐭_*                                                                                                                                                                                                                                                         
 ┬✯│
@@ -417,7 +417,7 @@ let cap = `╭════〘 *_𝐂𝐑𝐎𝐖𝐍 𝐁𝐎𝐓_* 〙═⊷❍
 ╭═══〘 *_𝐎𝐓𝐇𝐄𝐑𝐒_* 〙══⊷❍
 ▯╭─────────────···▸
 ┃✯│ *_𝐎𝐰𝐧𝐞𝐫_*
-┃✯│ *_𝐒𝐢𝐫𝐦_*
+┃✯│ *_Hunter_*
 ┃✯│ *_𝐒𝐜𝐫𝐢𝐩𝐭_*
 ┃✯│ *_𝐌𝐞𝐧𝐮_*
 ┃✯│ *_𝐋𝐢𝐬𝐭_*
@@ -468,17 +468,18 @@ if (menu === 'VIDEO') {
 client.sendMessage(from, { text: cap}, {quoted: m})
 
 } else if (menu === 'IMAGE') {
-client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/pYvWfzM.jpeg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
+client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/6MlZUkw.jpeg
+ ' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
 } else if (menu === 'LINK') {
 client.sendMessage(m.chat, {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐂𝐑𝐎𝐖𝐍-𝐀𝐈`,
+                                title: `HUNTER-𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./crown.jpg'),
-                                sourceUrl: 'https://wa.me/923195832822?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254114660061?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -1067,7 +1068,7 @@ break;
          if (!isBotAdmin) throw botAdmin; 
           if (!Owner) throw NotOwner; 
                  await client.groupParticipantsUpdate(m.chat,  [m.sender], 'promote'); 
- m.reply('Promoted To Admin<🥇'); 
+ m.reply('promoted happily<🥇'); 
           }
           break;
 
@@ -1105,7 +1106,7 @@ await m.reply('Successfully removed!');
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://i.imgur.com/1rqCELH.jpeg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy CROWN-BOT using the GitHub link below🦄\n\nFork and give us a star✨.\n\n https://github.com/kimsirm/CROWN-MD\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@njaisirm1/Crown-Pairing-v6\n\nEnjoy and have fun with CROWN 👑..\n\nMade on Earth by 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏!!` });
+`👋🏻 Hello *${pushname}*,You can deploy HUNTER-AI using the GitHub link below🦄\n\nFork and give us a star✨.\n\n https://github.com/HunterNick2/HUNTER-AI\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@dicksonnicky50/HUNTER-AI-Pairing-v6\n\nEnjoy and have fun with HUNTER-AI 🏹..\n\nMade on Earth by Hunter🏹!!` });
 
    break;
                                                   
@@ -1230,7 +1231,7 @@ await m.reply('Successfully removed!');
  break;
           case "leave": { 
                  if (!isAdmin) throw admin; 
- await client.sendText(m.chat, 'GoodBye Everyone. Bot is leaving now. . .'); 
+ await client.sendText(m.chat, 'GoodBye Everyone. Hunter-Ai is leaving now guess we never meet again😪. . .'); 
                  await client.groupLeave(m.chat); 
   
              } 
@@ -1460,7 +1461,7 @@ break
   case 'play':
     case 'stream': {
         if (!text) {
-            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝐩𝐥𝐚𝐲 𝐮𝐦𝐛𝐫𝐞𝐥𝐥𝐚 𝐍𝐚𝐬𝐛𝐨𝐢')
+            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝐩𝐥𝐚𝐲 kungulu kwangala by kasheshe')
             return;
         }
         try {
@@ -1734,7 +1735,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/IbM7XSM.mp4' }, caption: `Hello ${m.pushName}, 𝐂𝐑𝐎𝐖𝐍 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/EhWV8yB.mp4' }, caption: `Hey👋 ${m.pushName}, HUNTER-Ai has been alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1875,8 +1876,8 @@ case "movie":
              } 
  break;
  
-      case "sirm": case "owner": case "sirm": 
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/9WyMGc4.mp4' }, caption: `Say no more 😌 here is 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 contact +923195832822 🥱` }, {quoted: m}); 
+      case "Hunter": case "owner": case "Hunter": 
+ client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/3lhcgJW.mp4' }, caption: `See the bad influencer 😌 here is Hunter🏹 contact +254114660061 😡` }, {quoted: m}); 
   
  break;
        
@@ -1923,7 +1924,7 @@ case "movie":
      } 
  break;
  case ".":case"!":case"_":case"-":case"/":case"&":case"+":case"?":case"*": { 
-         m.reply (`Hello ${pushname}, 👋 you have used my prefix? Try typing a command after the prefix like *_help_*`); 
+         m.reply (`Hello ${pushname}, 👋 you have used my prefix? Try typing a command after the prefix like *_menu_*`); 
  }
  break;
       
@@ -1979,7 +1980,7 @@ case "movie":
         case "gpt": case "g": 
           
 
-            if (!text) return reply("Hello am 𝐂𝐑𝐎𝐖𝐍 an Ai developed by 𝐒𝐢𝐫𝐦, how can I help you today?");
+            if (!text) return reply("Hello am Hunter-Ai an Ai developed by Hunter🏹, how can I help you today?");
 
            const configuration = new Configuration({
 
@@ -2042,7 +2043,7 @@ async function getConversation() {
 
 // Handler for the "gpt" or "g" case
 async function handleGPTMessage(text, m) {
-  if (!text) return m.reply("Hello am 𝐂𝐑𝐎𝐖𝐍 an Ai developed by 𝐒𝐢𝐫𝐦, how can I help you today?");
+  if (!text) return m.reply("Hello am Hunter-Ai an Ai developed by Hunter🏹, how can I help you today?");
 
   const configuration = new Configuration({
     apiKey: setting,
