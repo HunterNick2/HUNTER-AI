@@ -4,7 +4,7 @@
   </p>
   
 <p align="center">
-<img src="https://i.imgur.com/oE6btwC.jpeg" width="300" height="300"/>
+<img src="https://i.imgur.com/Rn5VvEM.jpeg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=HUNTER-AI+WHATSAPP+BOT" alt="">
