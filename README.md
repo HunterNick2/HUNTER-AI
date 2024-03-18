@@ -1,6 +1,6 @@
-# HUNTER-AI
+# CROWN-MD
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HAIL TO+👑HUNTER-AI🏹;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+HUNTER;PUBLIC+RELESED; ...;TEAM HUNTER." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=LONG LIVE+👑CROWN-MD👑;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SIRM;PUBLIC+RELESED; ...;TEAM CROWN-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
